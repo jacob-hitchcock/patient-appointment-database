@@ -1,5 +1,5 @@
 # Patient Appointment Database
-In this project, I was tacked with planning, documenting, and implementing a database to be used for a hypothetical appointment scheduling application.
+In this project from March 2021, I was tasked with planning, documenting, and implementing a database to be used for a hypothetical appointment scheduling application.
 
 ## The Application
 The proposed application that I was designing for handled the scheduling of appointments between patients and doctors.
