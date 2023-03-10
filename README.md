@@ -11,7 +11,7 @@ The application would allow the user to:
 * Select a **clinic**
 * Select an **appointment** date and time
 
-ADD IMAGE OF APPLICATION HERE
+![Application](./application.png?raw=True "Application")
 
 ## Database Design
 There were a couple of criteria pertaining to the design of the database. 
@@ -24,6 +24,13 @@ There were a couple of criteria pertaining to the design of the database.
 This project was presented over a series of 4 milestones, detailed below
 
 ### Milestone 01
-This milestone presented the process of desiging the database. Design decisions were made based solely on the proposed application and user flow. Changes to the design choices in the milestone 01 deliverables may be different by the final milestone.
+This milestone presented the process of desiging the database. Design decisions were made based solely on the proposed application and user flow. Changes to the design choices in the milestone 01 deliverables may be different by the final milestone. The documents include an excel spreadsheet documenting the metadata of each of the databases attributes. There is also a database diagram, visualizing the relationship between the databases entities. 
 
 ### Milestone 02
+Milestone 02 is where the database prototype is scripted.
+
+### Milestone 03
+This milestone was focused on using the database for reporting purposes. The SQL script included in this milestone filled the database with sample data and created reporting views. Then, by connecting the SQL server to Tableau and Excel, I created example reports. 
+
+### Milestone 04
+This final milestone asked me to reflect on the project and processes. My final thoughts are documented in this milestone. 
