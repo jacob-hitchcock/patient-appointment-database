@@ -34,3 +34,6 @@ This milestone was focused on using the database for reporting purposes. The SQL
 
 ### Milestone 04
 This final milestone asked me to reflect on the project and processes. My final thoughts are documented in this milestone. 
+
+## Final Thoughts
+This project provided an opportunity to apply the SQL concepts learned in the course to a real-world scenario. Overall, the project was challenging, but it helped to reinforce the importance of proper database design and implementation.
